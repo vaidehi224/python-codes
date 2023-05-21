@@ -1,0 +1,5 @@
+a=input("Enter the string:")
+n=set(a)
+j=''.join(n)
+print("Remove all duplicates from a given string")
+print(j)
